@@ -1,0 +1,12 @@
+NET "oSEG[0]" LOC = P167;
+NET "oSEG[1]" LOC = P169;
+NET "oSEG[2]" LOC = P172;
+NET "oSEG[3]" LOC = P182;
+NET "oSEG[4]" LOC = P187;
+NET "oSEG[5]" LOC = P191;
+NET "oSEG[6]" LOC = P196;
+NET "oSEG[7]" LOC = P199;
+
+NET "iDIG[2]" LOC = P4;
+NET "iDIG[1]" LOC = P10;
+NET "iDIG[0]" LOC = P12;
