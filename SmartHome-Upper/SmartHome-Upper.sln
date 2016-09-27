@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartHome-Upper", "SmartHome-Upper.vcxproj", "{4901F3C6-8B73-3229-8550-ECDF2D14AB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4901F3C6-8B73-3229-8550-ECDF2D14AB14}.Debug|x86.ActiveCfg = Debug|Win32
+		{4901F3C6-8B73-3229-8550-ECDF2D14AB14}.Debug|x86.Build.0 = Debug|Win32
+		{4901F3C6-8B73-3229-8550-ECDF2D14AB14}.Release|x86.ActiveCfg = Release|Win32
+		{4901F3C6-8B73-3229-8550-ECDF2D14AB14}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

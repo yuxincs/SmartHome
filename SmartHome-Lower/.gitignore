@@ -1,0 +1,6 @@
+/release
+/debug
+/GeneratedFiles
+/Win32
+/.vs
+*.db
