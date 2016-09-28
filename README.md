@@ -8,14 +8,21 @@ A SmartHome Simulation For Interface Course Project, Includes Upper and Lower Ma
 
 ## Overall
 The SmartHome system is basically a simulation which includes following factors:
+
 Temperature\Brightness is simulated by slide rhostat value.
+
 Light is simulated by an LED.
+
 Air conditioning is simulated by a motor.
 
 ## Chips Used
+
 8251 - Serial Communicator
+
 8253 - Counter
+
 8255 - Parallel I/0
+
 0809 - A/D Converter
 
 ## Upper Machine
