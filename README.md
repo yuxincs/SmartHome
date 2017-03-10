@@ -1,10 +1,7 @@
 # SmartHome
-###### By : Ryan Wang @ HUST
-###### Email : wangyuxin@hust.edu.cn
+A SmartHome Simulation For Interface Course Project, Includes Upper and Lower Machine.
 
 ![](https://github.com/RyanWangGit/SmartHome/blob/master/Screenshots/1.png)
-
-A SmartHome Simulation For Interface Course Project, Includes Upper and Lower Machine.
 
 ## Overall
 The SmartHome system is basically a simulation which includes following factors:
