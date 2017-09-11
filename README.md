@@ -1,7 +1,10 @@
 # SmartHome
+
 A SmartHome Simulation For Interface Course Project, Includes Upper and Lower Machine.
 
-![](https://github.com/RyanWangGit/SmartHome/blob/master/Screenshots/1.png)
+<p align="center">
+  <img alt="SmartHome screenshot" src="https://github.com/RyanWangGit/SmartHome/blob/master/Screenshots/1.png"></img>
+</p>
 
 ## Overall
 The SmartHome system is basically a simulation which includes following factors:
