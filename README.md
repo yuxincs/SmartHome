@@ -3,7 +3,7 @@
 A SmartHome Simulation For Interface Course Project, Includes Upper and Lower Machine.
 
 <p align="center">
-  <img alt="SmartHome screenshot" src="https://user-images.githubusercontent.com/10323518/30979553-f4eb835e-a44b-11e7-83d3-8515fe76a33b.gif"></img>
+  <img alt="SmartHome screenshot" src="https://github.com/yxwangcs/SmartHome/blob/master/screenshot.gif?raw=true"></img>
 </p>
 
 ## Overall
