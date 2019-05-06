@@ -35,4 +35,4 @@ The lower macine is responsible for receiving the command from the upper machine
 The code for FPGA is responsible for converting a 3-bit number into corresponding 7-seg byte for the 7-segment LED to display the fan speed.
 
 ## License
-[MIT](https://github.com/RyanWangGit/SmartHome/blob/master/LICENSE).
+[MIT](https://github.com/yxwangcs/SmartHome/blob/master/LICENSE).
